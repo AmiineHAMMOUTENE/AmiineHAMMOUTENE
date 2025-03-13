@@ -1,5 +1,5 @@
 # 💫 À PROPOS DE MOI :
-Je suis un développeur web full-stack passionné et étudiant à l'École Multimédia en Bachelor Concepteur Développeur d'Applications.
+Je suis un développeur web full-stack passionné et étudiant en 3éme année à l'École Multimédia en Bachelor Concepteur Développeur d'Applications.
 
 
 ## 🌐 Réseaux :
